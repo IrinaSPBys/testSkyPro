@@ -1,2 +1,3 @@
 For homework.
 I'm study GIT
+And here, too, made changes.
